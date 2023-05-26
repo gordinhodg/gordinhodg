@@ -1,6 +1,6 @@
 **Boas vindas ao meu perfil** 💙
 
-Meu nome é Lucas Siqueira
+Meu nome é Eduardo Simão
 
 -Estou estudando na [Alura](https://cursos.alura.com.br/dashboard)
 
@@ -10,8 +10,8 @@ Meu nome é Lucas Siqueira
 
 **Você entrar em contato comigo** 📫
 
-luacasmais8000@gmail.com
 
-@lukz_siqueira
+
+
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJhZmNiY2NmMjk3NTM0ZGRlMDFkYTRlZTBiNDdhNTM2MDM4NWM2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eSwGh3YK54JKU/giphy.gif)
