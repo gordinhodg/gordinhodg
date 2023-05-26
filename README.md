@@ -1,6 +1,6 @@
 **Boas vindas ao meu perfil** 💙
 
-Meu nome é Eduardo Simão
+Meu nome é Eduardo Simão eduardo.franetovich@escola.pr.gov.br 
 
 -Estou estudando na [Alura](https://cursos.alura.com.br/dashboard)
 
@@ -10,4 +10,5 @@ Meu nome é Eduardo Simão
 
 **Você entrar em contato comigo** 📫
 
+eduardo
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJhZmNiY2NmMjk3NTM0ZGRlMDFkYTRlZTBiNDdhNTM2MDM4NWM2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eSwGh3YK54JKU/giphy.gif)
